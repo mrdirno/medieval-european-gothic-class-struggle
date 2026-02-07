@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-european-gothic-class-struggle",
+  "title": "The Silent, Architectural Scream",
+  "tagline": "In a cathedral built on blood, a thief seeks the city's hidden history, but the stones themselves remember a more violent truth.",
+  "target_words": 74310,
+  "actual_words": 74310,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Sacred vs. Profane",
+    "The Weight of History",
+    "The Violence of Architecture",
+    "Knowledge as Power"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "Of Blood-Mortar and Weeping Stone",
+      "words": 6755
+    },
+    {
+      "ch": 2,
+      "title": "The Taste of Tallow Smoke",
+      "words": 6755
+    },
+    {
+      "ch": 3,
+      "title": "The Street of the Winged Bull",
+      "words": 6755
+    },
+    {
+      "ch": 4,
+      "title": "The Seepage of Untended Wounds",
+      "words": 6755
+    },
+    {
+      "ch": 5,
+      "title": "The Consuming Archway",
+      "words": 6755
+    },
+    {
+      "ch": 6,
+      "title": "The City That Gnaws",
+      "words": 6755
+    },
+    {
+      "ch": 7,
+      "title": "The Lung-Breath of the Mountain",
+      "words": 6755
+    },
+    {
+      "ch": 8,
+      "title": "A Complaint in a Perfect System",
+      "words": 6755
+    },
+    {
+      "ch": 9,
+      "title": "The Silent, Architectural Scream",
+      "words": 6755
+    },
+    {
+      "ch": 10,
+      "title": "The World, A Bruise",
+      "words": 6755
+    },
+    {
+      "ch": 11,
+      "title": "A Secret Known to Stone and Shadow",
+      "words": 6755
+    }
+  ]
+}
